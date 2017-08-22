@@ -34,7 +34,7 @@ max         99.000000
 Name: seniority, dtype: float64
 ```
 
-<img src='seniority_boxplot.png'>
+<img src='seniority_boxplot1.png'>
 
 We should remove these as it is very unlikely that anyone would have over 60 years of work experience.
 
