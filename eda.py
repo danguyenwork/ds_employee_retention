@@ -46,6 +46,7 @@ tenure_vs_quit.quit.unique()
 tenure_vs_quit
 plt.show()
 plt.scatter(tenure_vs_quit['tenure_bin'], tenure_vs_quit['quit'])
+plt.show()
 plt.xlabel('Tenure')
 plt.ylabel('Attrition Rate')
 plt.savefig('tenure_bin.png')
